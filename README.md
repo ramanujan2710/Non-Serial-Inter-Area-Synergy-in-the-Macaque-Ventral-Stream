@@ -1,4 +1,4 @@
-# Inferotemporal Cortex Joins the Circuit Before the Code: Non-Serial Inter-Area Synergy in the Macaque Ventral Stream
+#  Non-Serial Inter-Area Synergy in the Macaque Ventral Stream
 
 This repository contains the code and Jupyter Notebooks for the NeurIPS submission.
 
